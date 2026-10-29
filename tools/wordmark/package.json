@@ -1,0 +1,7 @@
+{
+  "name": "simdex-wordmark-tool",
+  "private": true,
+  "description": "Converts the Simdex wordmark (Sora Bold) to SVG outlines",
+  "scripts": { "gen": "node gen.js" },
+  "dependencies": { "opentype.js": "1.3.4" }
+}
